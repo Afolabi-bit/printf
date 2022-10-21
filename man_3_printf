@@ -32,11 +32,11 @@ In the Example print the value of text with %s give the format of text.
 .SH SEE ALSO
 .I printf (3)
 .SH AUTHOR
-Ayandiran I Temitope 
-iam-phenomenal@github.com
+Afolabi Joseph
+Afolabi-bit@github.com
 
-Ajayi W Favourson
-Favourson223@github.com
+Adeyinka Babatolu
+YinkaB@github.com
 
 Footer
 © 2022 GitHub, Inc.

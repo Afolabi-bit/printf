@@ -1,5 +1,5 @@
 ## printf()
-This printf project is a collaboration between Ayandiran I Temitope and Ajayi W Favour. This is an attempt to create our own printf function. Which  will mimic the actual "printf" command located in the stdio.h library. It will contain some of the basic features and functions found in the manual 3 of "printf".
+This printf project is a collaboration between Afolabi Joseph and Adeyinka Babatolu. This is an attempt to create our own printf function. Which  will mimic the actual "printf" command located in the stdio.h library. It will contain some of the basic features and functions found in the manual 3 of "printf".
 
 _printf() is a function that performs formatted output conversion and prints the data. Its prototype is the following:
 
@@ -73,7 +73,7 @@ Using flags and length tags:
 
 ------------
 ### Authors
-Ayandiran I Temitope and Ajayi W Favour
+Afolabi Joseph and Adeyinka Babatolu
 ------------
 
 ### End
